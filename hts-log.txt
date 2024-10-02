@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Oct 2024 20:24:15 at https://ai-tool.nextjstemplates.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ai-tool.nextjstemplates.com/ -O1 "C:\Github\teste" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/8326-18e82aa83d4185c6.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/413-97124db4ebcbf279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/1324-ed03bed52bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/4908-348be032bfc7395c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/9222-ae95c5031ac4cd61.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/9310-b5b543b63f574c4e.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/5187-491b68da4259dbd4.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/about)
+20:25:21	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/8da4259dbd4.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/about)
+20:25:22	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/static/chunks/6662-4194230c1758fa01.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/blog)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/fc7395c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/pricing)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/static/chunks/8326-18e82aa83d4185c6.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signin)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/static/chunks/413-97124db4ebcbf279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signin)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/static/chunks/1324-ed03bed52bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signin)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/2bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signin)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/static/chunks/4908-348be032bfc7395c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signup)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/auth/static/chunks/9222-ae95c5031ac4cd61.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/auth/signup)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/ai-examples/static/chunks/8326-18e82aa83d4185c6.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/ai-examples/content-writing-tool)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/ai-examples/static/chunks/413-97124db4ebcbf279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/ai-examples/content-writing-tool)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/ai-examples/static/chunks/1324-ed03bed52bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/ai-examples/content-writing-tool)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/ai-examples/static/chunks/4908-348be032bfc7395c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/ai-examples/content-writing-tool)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/ai-examples/static/chunks/9222-ae95c5031ac4cd61.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/ai-examples/content-writing-tool)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/blog/static/chunks/8326-18e82aa83d4185c6.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/blog/exploring-the-mern-stack-powering-modern-web-development)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/blog/static/chunks/413-97124db4ebcbf279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/blog/exploring-the-mern-stack-powering-modern-web-development)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/blog/static/chunks/1324-ed03bed52bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/blog/exploring-the-mern-stack-powering-modern-web-development)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/docs/static/chunks/8326-18e82aa83d4185c6.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/docs/bootstrap-template)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/docs/static/chunks/413-97124db4ebcbf279.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/docs/bootstrap-template)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/docs/static/chunks/1324-ed03bed52bd5b63c.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/docs/bootstrap-template)
+20:25:24	Error: 	"Not Found" (404) at link https://ai-tool.nextjstemplates.com/docs/static/chunks/3719-719a5cd8eb114201.js?dpl=dpl_23d1Zb521Cs1aAnbjs9SMCzuyLTa (from https://ai-tool.nextjstemplates.com/docs/bootstrap-template)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 179 links scanned, 149 files written (6074101 bytes overall) [4059116 bytes received at 58827 bytes/sec], 3005499 bytes transferred using HTTP compression in 118 files, ratio 24%
+(29 errors, 0 warnings, 0 messages)
